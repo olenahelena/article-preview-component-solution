@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/article-preview-component)
-- Live Site URL: (https://elaborate-biscotti-746407.netlify.app/)
+- Live Site URL: (https://beamish-monstera-b19bc8.netlify.app/)
 
 ### Built with
 
